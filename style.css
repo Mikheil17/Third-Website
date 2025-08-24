@@ -353,6 +353,18 @@ h1 {
     text-align: center;
 }
 
+.resume {
+    display: flex;
+    justify-content: center;
+    margin: 7.5rem;
+}
+
+.resume img {
+    width: 60%;
+    border: solid 5px #655b4bc1; 
+    margin-bottom: 3rem;
+}
+
 @media (max-width: 991.98px) {
 
     .navbar-collapse .nav {
